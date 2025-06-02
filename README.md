@@ -1,1 +1,1 @@
-# N225-Equity-Statarb: Brute-Force-vs.-k-Means-Clustering
+# N225_Equity-Statarb-Brute-Force_vs_k-Means_Clustering
