@@ -1,4 +1,4 @@
-# N225_Equity-Statarb-Brute-Force_vs_k-Means_Clustering
+# N225 Equity Statarb Brute-Force (Industry) vs k-Means_Clustering
 Overview
 
 Using 589 days of daily N225 constituent equity closing price data, we compare statarb peformance between: 
