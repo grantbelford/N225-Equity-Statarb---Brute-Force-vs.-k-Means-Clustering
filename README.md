@@ -11,6 +11,7 @@ Process
 3. The top 5 highest-scoring pairs are selected for backtesting.
 
 Outcome 
-1. On an initial JPY 5,000,000 allocation to each strat,
+1. On an initial JPY 5m allocation to each strat (ie. JPY 1m per pair),
 2. We notice a modest improvement in aggregate portfolio return from Strat2 (0.50%) vs. Strat1 (-1.1%).
+3. 1 pair overlapped on both strats top 5 picks.
  
