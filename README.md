@@ -13,5 +13,5 @@ Process
 Outcome 
 1. On an initial JPY 5m allocation to each strat (ie. JPY 1m per pair),
 2. We notice a modest improvement in aggregate portfolio return from Strat2 (0.50%) vs. Strat1 (-1.1%).
-3. 1 pair (2768.T Sojitz Corp vs. 8053.T Sumitomo Corp overlapped on both strats top 5 picks. Strat1 grouped the pair because both are in Conglomerates industry & Strat2 grouped the pair based on high return correlation. Both Sojitz and Sumitomo are sogo shosha (general trading companies) which could explain their similar return pattern.
+3. 1 pair (2768.T Sojitz Corp vs. 8053.T Sumitomo Corp) overlapped in both strats top 5 picks. Strat1 grouped the pair because both are in Conglomerates industry & Strat2 grouped the pair based on high return correlation. Both Sojitz and Sumitomo are sogo shosha (general trading companies) which could explain their similar return pattern.
  
