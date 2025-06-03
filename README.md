@@ -2,8 +2,8 @@
 Overview
 
 Using 589 days of daily N225 constituent equity closing price data, we compare statarb peformance between: 
-Strat 1/2. Statarb - Brute Force Method (ie. focus on Industry classifications) vs.
-Strat 2/2. Statarb - k-Means Clustering
+Strat 1. Statarb - Brute Force Method (ie. focus on Industry classifications) vs.
+Strat 2. Statarb - k-Means Clustering
 
 Process
 1. In both cases,
