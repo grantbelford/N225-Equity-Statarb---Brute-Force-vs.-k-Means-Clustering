@@ -24,15 +24,10 @@ Outcome
 4. In Fig1 investigating why all pairs have a large middle brown (neutral - no trading) section.
 
 5. 1 pair (2768.T Sojitz Corp vs. 8053.T Sumitomo Corp) overlapped in both strats top 5 picks.
-
 5a. The pair showed strong cointegration (ADF p<0.01, ADF_Stat: -3.9034) & correlation (0.9692) giving it the "top score" of the 5 picks (4.9383) in the training window (90d lookback).
-
 5b. Strat1 thus grouped the pair because both are in the same "Conglomerates" industry.
-
 5c. Strat2 grouped the pair based on the stats.
-
 5d. Both Sojitz and Sumitomo are sogo shosha (general trading companies) which could explain their similar return pattern.
-
 5e. However this pair performed the worse total return-wise in backtesting where we saw (Mar24) Sumitomo share price (major copper mine acquisition announcement) decouple from Sojitz & (Aug24) JPY volatility spike (both names moved together but spreads widened permanently). 
 
 6. The remaining 4 k-Means top picks pairs were all different industries and also no overlap with Strat1 picks (ref: Fig4).
