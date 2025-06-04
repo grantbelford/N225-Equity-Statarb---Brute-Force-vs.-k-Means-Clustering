@@ -29,7 +29,7 @@ Outcome:
 
 5. 1 pair (2768.T Sojitz Corp vs. 8053.T Sumitomo Corp) overlapped in both strats top 5 picks.
 
-6. The pair showed strong cointegration (ADF p<0.01, ADF_Stat: -3.9034) & correlation (0.9692) giving it the "top score" of the 5 picks (4.9383) in the training window (90d lookback).
+6. The pair showed strong cointegration (ADF p<0.01, ADF_Stat: -3.9034) & correlation (0.9692) giving it the "top score" of the 5 picks (4.9383) in the training window (90d lookback window for cointegration).
 
 7. Strat1 thus grouped the pair because both are in the same "Conglomerates" industry.
 
