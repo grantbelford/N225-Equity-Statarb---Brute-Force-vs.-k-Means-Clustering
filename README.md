@@ -5,14 +5,14 @@ Using 589 days of daily N225 constituent equity closing price data, we compare s
 
 Strat 1. Statarb - Brute Force Method (ie. focus on Industry classification for pairs selection - Fig2 for info) vs.
 
-Strat 2. Statarb - k-Means Clustering
+Strat 2. Statarb - k-Means Clustering (no pre-defined industry, sector or other restrictions - goal is for this approach to discover *non-intuitive* pairs with similar behaviour despite being from different industries)
 
 Process
 1. In both cases:
   
 2. The trading pairs are selected & sorted on a custom scoring system which combines both cointegration strength & correlation.
  
-3. The top 5 highest-scoring pairs are then selected for statarb backtesting.
+3. The top 5 highest-scoring pairs from each approach are then selected for statarb backtesting (both under same trading signals/position sizing/performance metrics).
 
 Outcome 
 1. On an initial JPY 5m allocation to each strat (ie. JPY 1m per pair).
