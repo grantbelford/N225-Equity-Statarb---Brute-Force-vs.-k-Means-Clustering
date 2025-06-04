@@ -29,7 +29,7 @@ Outcome
 
 7. Strat1 thus grouped the pair because both are in the same "Conglomerates" industry.
 
-8. Strat2 grouped the pair based on the stats.
+8. Strat2 grouped the pair based on the stat results.
 
 9. Both Sojitz and Sumitomo are sogo shosha (general trading companies) which could explain their similar return pattern.
 
