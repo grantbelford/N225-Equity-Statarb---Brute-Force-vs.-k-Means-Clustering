@@ -1,5 +1,5 @@
 # N225 Equity Statarb Brute-Force (Industry) vs k-Means Clustering
-Overview
+Overview:
 
 Using 589 days of daily N225 constituent equity closing price data, we compare statarb peformance between: 
 
@@ -18,7 +18,7 @@ Corr: rewards higher absolute Pearson corrs.
 Basic z-score MR *strat*: enters when spread exceeds ±2σ & exit at ±0.5σ.
 
 
-Outcome 
+Outcome: 
 1. On an initial JPY 5m allocation to each strat (ie. JPY 1m per pair).
  
 2. We notice a modest improvement in portfolio total return from Strat2 (0.50%) vs. Strat1 (-1.1%) - details in Fig1.
