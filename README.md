@@ -10,9 +10,14 @@ Strat 2. Statarb - k-Means Clustering (no pre-defined industry, sector or other 
 Process
 1. In both cases:
   
-2. The trading pairs are selected & sorted on a custom scoring system which combines both cointegration strength & correlation.
- 
-3. The top 5 highest-scoring pairs from each approach are then selected for statarb backtesting (both under same trading signals/position sizing/performance metrics).
+2. The trading pairs are selected & sorted on a custom *scoring* system which combines both cointegration strength & correlation.
+ADF Stat: Prioritizes pairs cointegrated at 1% > 5% > 10%.
+Correlation: Rewards higher absolute Pearson correlations.
+*Score* = (ADF Level Weight) + 2 * |Correlation|.
+
+3. The top 5 highest-scoring pairs from each approach are then selected for statarb backtesting *strat* (both under same trading signals/position sizing/performance metrics)
+Basic Z-score MR *strat*: enters when spread exceeds ±2σ & exit at ±0.5σ.
+
 
 Outcome 
 1. On an initial JPY 5m allocation to each strat (ie. JPY 1m per pair).
