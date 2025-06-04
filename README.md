@@ -14,7 +14,7 @@ ADF Stat: Prioritizes pairs cointegrated at 1% > 5% > 10%.
 Correlation: Rewards higher absolute Pearson correlations.
 *Score* = (ADF Level Weight) + 2 * |Correlation|.
 
-2. The top 5 highest-scoring pairs from each approach are then selected for statarb backtesting *strat* (both under same trading signals/position sizing/performance metrics)
+2. The top 5 highest-scoring pairs from each approach are then selected for statarb backtesting *strat* (both under same trading signals/position sizing/performance metrics).
 Basic Z-score MR *strat*: enters when spread exceeds ±2σ & exit at ±0.5σ.
 
 
