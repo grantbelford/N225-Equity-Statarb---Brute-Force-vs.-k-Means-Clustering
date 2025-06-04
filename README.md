@@ -33,7 +33,7 @@ Outcome
 
 9. Both Sojitz and Sumitomo are sogo shosha (general trading companies) which could explain their similar return pattern.
 
-10. However this pair performed the worse total return-wise in backtesting where we saw (Mar24) Sumitomo share price (major copper mine acquisition announcement) decouple from Sojitz & (Aug24) JPY volatility spike (both names moved together but spreads widened permanently). 
+10. However this pair performed the worse total return-wise in statarb backtesting where we saw (Mar24) Sumitomo share price (major copper mine acquisition announcement) decouple from Sojitz & (Aug24) JPY volatility spike (both names moved together but spreads widened permanently). 
 
 11. The remaining 4 k-Means top picks pairs were all different industries and also no overlap with Strat1 picks (ref: Fig4).
  
