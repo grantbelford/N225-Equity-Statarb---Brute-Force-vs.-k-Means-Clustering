@@ -12,7 +12,7 @@ Process
   
 2. The trading pairs are selected & sorted on a custom scoring system which combines both cointegration strength & correlation.
  
-3. The top 5 highest-scoring pairs are then selected for backtesting.
+3. The top 5 highest-scoring pairs are then selected for statarb backtesting.
 
 Outcome 
 1. On an initial JPY 5m allocation to each strat (ie. JPY 1m per pair).
