@@ -8,7 +8,7 @@ Strat 1. Statarb - Brute Force Method (ie. focus on Industry classification for 
 Strat 2. Statarb - k-Means Clustering
 
 Process
-1. In both cases,
+1. In both cases:
   
 2. The trading pairs are selected & sorted on a custom scoring system which combines both cointegration strength & correlation.
  
