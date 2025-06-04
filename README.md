@@ -10,7 +10,7 @@ Strat 2. Statarb - k-Means Clustering (no pre-defined industry, sector or other 
 Process - in both cases:
   
 1. The trading pairs are selected & sorted on a custom *scoring* system which combines both cointegration strength & correlation.
-ADF Stat: prioritizes pairs cointegrated at 1% > 5% > 10%.
+ADF stat: prioritizes pairs cointegrated at 1% > 5% > 10%.
 Corr: rewards higher absolute Pearson corrs.
 *Score* = (ADF Level Wgt) + 2 * |Corr|.
 
